@@ -1,4 +1,4 @@
-module github.com/jbabin91/errors
+module github.com/jacebabin/errors
 
 go 1.12
 
